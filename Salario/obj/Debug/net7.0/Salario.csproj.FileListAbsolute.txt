@@ -1,0 +1,15 @@
+/home/pati/Documentos/Projetos csharp/Salario/bin/Debug/net7.0/Salario
+/home/pati/Documentos/Projetos csharp/Salario/bin/Debug/net7.0/Salario.deps.json
+/home/pati/Documentos/Projetos csharp/Salario/bin/Debug/net7.0/Salario.runtimeconfig.json
+/home/pati/Documentos/Projetos csharp/Salario/bin/Debug/net7.0/Salario.dll
+/home/pati/Documentos/Projetos csharp/Salario/bin/Debug/net7.0/Salario.pdb
+/home/pati/Documentos/Projetos csharp/Salario/obj/Debug/net7.0/Salario.csproj.AssemblyReference.cache
+/home/pati/Documentos/Projetos csharp/Salario/obj/Debug/net7.0/Salario.GeneratedMSBuildEditorConfig.editorconfig
+/home/pati/Documentos/Projetos csharp/Salario/obj/Debug/net7.0/Salario.AssemblyInfoInputs.cache
+/home/pati/Documentos/Projetos csharp/Salario/obj/Debug/net7.0/Salario.AssemblyInfo.cs
+/home/pati/Documentos/Projetos csharp/Salario/obj/Debug/net7.0/Salario.csproj.CoreCompileInputs.cache
+/home/pati/Documentos/Projetos csharp/Salario/obj/Debug/net7.0/Salario.dll
+/home/pati/Documentos/Projetos csharp/Salario/obj/Debug/net7.0/refint/Salario.dll
+/home/pati/Documentos/Projetos csharp/Salario/obj/Debug/net7.0/Salario.pdb
+/home/pati/Documentos/Projetos csharp/Salario/obj/Debug/net7.0/Salario.genruntimeconfig.cache
+/home/pati/Documentos/Projetos csharp/Salario/obj/Debug/net7.0/ref/Salario.dll
